@@ -1,5 +1,3 @@
-# iRAP_RMRC
-Description about iRAP RMRC Robot
 
 ## Ubuntu Setup
 Ubuntu 20.04 Desktop Image : https://releases.ubuntu.com/focal/
@@ -27,7 +25,7 @@ sudo apt install terminator
 ```
 
 ## Raspberry PI4 Setup
-For iRAP RMRC Robot we use raspberry PI4 ,that is embedded computer.This section will explain how to setup it.
+
 
 Ubuntu 20.04 Mate Image : https://releases.ubuntu-mate.org/20.04/arm64/
 
